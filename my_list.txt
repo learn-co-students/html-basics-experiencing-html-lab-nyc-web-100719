@@ -1,0 +1,7 @@
+"eggs"
+"flour"
+"sugar"
+"brown sugar"
+"butter"
+"vanilla extract"
+"chocolate chips"
